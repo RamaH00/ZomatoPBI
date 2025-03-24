@@ -2,7 +2,7 @@
 
 # 🍽️ Zomato Power BI Dashboard
 
-Welcome to the **Zomato Power BI Dashboard** repository! This project is a visually stunning and interactive dashboard designed to provide deep insights into Zomato's restaurant data. Whether you're analyzing restaurant performance, exploring cuisine diversity, or diving into pricing trends, this dashboard has got you covered.
+Welcome to the **Zomato Power BI Dashboard** repository! This project is a visually stunning and interactive dashboard designed to provide deep insights into Zomato's restaurant data. Whether you're analyzing restaurant performance, exploring cuisine diversity, or diving into pricing trends, this dashboard has got you covered. Plus, it’s optimized for **mobile view** so you can explore data on the go! 🚀
 
 ---
 
@@ -14,6 +14,7 @@ This dashboard is packed with features to help you make data-driven decisions. H
 - **📊 Performance Analysis**: Analyze restaurant ratings and identify top-performing eateries.
 - **🍜 Cuisine Variety**: Discover the most diverse cuisines offered by restaurants.
 - **💰 Financial Insights**: Dive into pricing trends and cost analysis to understand affordability.
+- **📱 Mobile View**: A responsive design optimized for mobile devices, so you can access insights anytime, anywhere.
 
 ---
 
@@ -60,11 +61,14 @@ To make the data more intuitive, the dashboard uses **color-coded metrics** base
 - Explore bar charts and pie charts to understand trends in ratings, pricing, and cuisine diversity.
 - Use the **drill-down** feature to get granular insights into specific restaurants or metrics.
 
+### 📱 **Mobile View**
+- The dashboard is fully optimized for mobile devices. Simply open it on your phone or tablet to access insights on the go. The responsive design ensures a seamless experience across all devices.
+
 ---
 
 ## 🛠️ **Behind the Scenes**
 
-This dashboard was built using **Power BI** and leverages **DAX (Data Analysis Expressions)** to calculate key metrics. The color-coded visuals are powered by custom DAX formulas, making the data both informative and visually appealing.
+This dashboard was built using **Power BI** and leverages **DAX (Data Analysis Expressions)** to calculate key metrics. The color-coded visuals are powered by custom DAX formulas, making the data both informative and visually appealing. The **mobile view** was carefully designed to ensure usability and responsiveness on smaller screens.
 
 ---
 
@@ -72,7 +76,8 @@ This dashboard was built using **Power BI** and leverages **DAX (Data Analysis E
 
 1. **Download the Dashboard**: Clone this repository and open the `.pbix` file in Power BI.
 2. **Explore the Data**: Use the filters and interactive features to dive into the insights.
-3. **Make Data-Driven Decisions**: Use the dashboard to optimize restaurant performance, understand customer preferences, and analyze market trends.
+3. **Access on Mobile**: Open the dashboard on your mobile device for a seamless, on-the-go experience.
+4. **Make Data-Driven Decisions**: Use the dashboard to optimize restaurant performance, understand customer preferences, and analyze market trends.
 
 ---
 
